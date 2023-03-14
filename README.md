@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Christiane Magalhães.
 <div align="justify"> ## No momento estou estudando Lógica de Programação - Algoritmos por meio do livro de mesmo nome do autor José Augusto Manzano. 
-  Pretendo, em 2023, me tornar programadora. 
-  Após finalizar Algoritmos, irei para a linguagem Python.
+  Pretendo, em 2023, me tornar desenvolvedora. 
+  Vou iniciar em Abril/2023 a Faculdade de Análise e Desenvolvimento de Sistemas.
   </div>
     <p>
 
