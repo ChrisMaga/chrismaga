@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Comic+sans&pause=1000&color=AB3DEE&multiline=true&random=false&width=335&height=60&lines=Ol%C3%A1%2C+seja+bem+vindo!)](https://git.io/typing-svg)
 
-### :blush: Cursando ADS no Senac/SP e fazendo alguns cursos extras para conseguir realizar a minha transição de carreira!
+### :blush: Formada em ADS no Senac/SP e fazendo alguns cursos extras para conseguir realizar a minha transição de carreira!
 <br>
 
 ## :woman_technologist:	 Estudando...
