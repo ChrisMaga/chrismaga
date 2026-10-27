@@ -21,7 +21,7 @@
 
 ## :world_map: Onde me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christiane-magalhaes/)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/chrismagalhaes_dev/)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/chrismagalhaes.digital/)
 [![Meu Perfil DIO](https://img.shields.io/badge/Meu%20Perfil%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/christianem_arcari)
 <br><br>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ChrisMaga&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
